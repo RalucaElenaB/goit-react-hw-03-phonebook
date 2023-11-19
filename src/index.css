@@ -79,8 +79,9 @@ h1 {
 }
 
 .SubmitButton {
-  background-color: rgb(160, 167, 165);
+  background-color: rgb(185, 185, 174);
   font-size: 14px;
   font-weight: bold;
   border: 3px solid #333;
+  border-radius: 25px;
 }
